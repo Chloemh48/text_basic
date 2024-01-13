@@ -1,0 +1,50 @@
+p{
+    font-family: arial;
+    margin-top: 0px;
+}
+.title{
+ 
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+.view{
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(96,96,96);
+    margin-bottom: 20px;
+}
+.name{
+   
+    font-size: 14px;
+    color: rgb(96,96,96);
+    margin-bottom: 20px;
+   
+}
+.content{
+    font-size:14px;
+    color: rgb(96,96,96);
+    width: 280px;
+    line-height: 20px;
+    margin-bottom: 100px;
+              
+}
+.apple{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+         
+}
+.shop{
+    cursor: pointer;
+}
+.shop:hover{
+    text-decoration: underline;
+    
+}
